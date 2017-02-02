@@ -5,13 +5,14 @@
 <head>
 	<title> My Biography </title>
 	<meta charset="utf-8"/>
+    <link href="adele-style.css" rel="stylesheet" />
 </head>
 
 
 <body>
 	<h1>The Biography of Nicholas Metzger </h1>
 	<p> I was born in Providence, Rhode Island to my loving parents, Amanda and
-        Jonathan. I grew up in Norwell, Massachusetts. </p>
+        Jonathan. I grew up in Norwell, Massachusetts. !!!!! </p>
 </body>
 
 </html>
