@@ -4,13 +4,14 @@
 
 <head>
 <title> Homepage </title>
-<meta charset"utf-8"/>
+<meta charset="utf-8"/>
 </head>
 
 <body>
-<p>Nicholas Metzger</p>
-<p><img src="nickpic.jpg" alt="Photo not available"/> </p>
-<p><a href="https://nickmetz12.github.io/bio.html"> My bio </a></p>
+    <p>Nicholas Metzger</p>
+    <p><img src="nickpic.jpg" alt="Photo not available"/> </p>
+    <p><a href="https://nickmetz12.github.io/bio.html">My Bio</a></p>
+    <p><a href="https://nickmetz12.github.io/resume.html">My Resume</a></p>
 </body>
 
 </html>
