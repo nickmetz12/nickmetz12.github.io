@@ -4,7 +4,7 @@ body {
 	color: white;
 }
 
-title {
+h2 {
     center
     background-color: yellow;
     font-size: 50px;
@@ -15,7 +15,7 @@ title {
 
 h1 {
     center
-	background-color: maroon;
+	background-color: black;
 	font-size: 30px;
 	font-family: Times New Roman;
 	color: purple;
