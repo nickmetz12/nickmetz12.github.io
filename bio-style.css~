@@ -5,16 +5,16 @@ body {
 }
 
 h2 {
-    center
+    text-align: center;
     background-color: yellow;
     font-size: 50px;
     font-family: Helvetica;
-    color: blue;
+    color: lime;
     
 }
 
 h1 {
-    center
+    text-align: center;
 	background-color: black;
 	font-size: 30px;
 	font-family: Times New Roman;
@@ -24,12 +24,12 @@ h1 {
 .people {
 	background-color: lime;
 	color: teal;
-	font-size: 22 px;
+	font-size: 22px;
 }
 
 .animal {
     background-color: white;
     color: green;
-    font-size: 26 px;
+    font-size: 26px;
 
 }
