@@ -4,7 +4,17 @@ body {
 	color: white;
 }
 
+title {
+    center
+    background-color: yellow;
+    font-size: 50px;
+    font-family: Helvetica;
+    color: blue;
+    
+}
+
 h1 {
+    center
 	background-color: maroon;
 	font-size: 30px;
 	font-family: Times New Roman;
@@ -15,4 +25,11 @@ h1 {
 	background-color: lime;
 	color: teal;
 	font-size: 22 px;
+}
+
+.animal {
+    background-color: white;
+    color: green;
+    font-size: 26 px;
+
 }
